@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Matheus Belchior 👋🏼
-##### Seja bem-vind() ao meu perfil.
+##### Seja bem-vind() ao meu perfil. 🌟
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/matheus-belchior-23989a231/)
@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbc-dutra&hide_progress=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia ⭐
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 A melhor tecnologia são os amigos que fazemos pelo caminho.
 
-## Tecnologias que quero aprender
+## Tecnologias que quero aprender 🤩
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
