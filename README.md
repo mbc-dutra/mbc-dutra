@@ -16,7 +16,7 @@ I'm focused on improving my skills in HTML, CSS and JavaScript through real proj
 
 ---
 
-## 🧑🏼‍💻 Learning
+## 🧑🏼‍💻 Knowledge
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
