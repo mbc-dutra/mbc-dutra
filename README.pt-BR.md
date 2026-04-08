@@ -1,8 +1,7 @@
 <p align="right">
-  <a href="README.md">🇺🇸 English</a> | 🇧🇷 Português
+  🌐 Idioma: 
+  <a href="https://github.com/mbc-dutra">US-ENG</a>
 </p>
-
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá👋🏻+meu+nome+é+Matheus;Tenho+22+anos;Sou+do+Brasil;Falo+PT+e+ENG;Seja+bem-vindo!🙋🏼‍♂️)](https://git.io/typing-svg)
 
