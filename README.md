@@ -1,7 +1,7 @@
 <p align="right">
-  🇺🇸 English | <a href="README.pt-BR.md">🇧🇷 Português</a>
+  🌐 Language: 
+  <a href="README.pt-BR.md">🇧🇷 PT-BR</a>
 </p>
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋🏻+my+name+is+Matheus;I'm+22+years+old;I'm+from+Brazil;I+speak+PT+and+ENG;Welcome!🙋🏼‍♂️)](https://git.io/typing-svg)
