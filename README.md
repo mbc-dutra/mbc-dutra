@@ -6,18 +6,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋🏻+my+name+is+Matheus;I'm+22+years+old;I'm+from+Brazil;I+speak+PT+and+ENG;Welcome!🙋🏼‍♂️)](https://git.io/typing-svg)
 
 <p align="center">
-  <strong>💡 I believe good design and clean code together create better user experiences.</strong>
+  <strong> ☕ I believe good software combines clean code, solid architecture and a great user experience.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer in progress with a strong background in design and communication.
+I'm an Assistant Designer transitioning into software development, with the goal of becoming a Java Backend Developer.
 
-Currently, I work with visual communication, creating layouts and digital materials using tools like Adobe Creative Cloud. This experience allows me to build interfaces that are not only functional, but also visually clear and user-friendly.
+Currently, I work with visual communication, creating layouts and digital materials using Adobe Creative Cloud. This experience has strengthened my attention to detail, problem-solving and visual thinking.
 
-I'm focused on improving my skills in HTML, CSS and JavaScript through real projects, aiming to become a professional frontend developer and work on international opportunities.
+I'm currently focused on Java, object-oriented programming, Spring Boot, databases and backend development, while building practical projects to strengthen my knowledge.
 
 ---
 
@@ -47,6 +47,7 @@ I'm focused on improving my skills in HTML, CSS and JavaScript through real proj
 
 ## 🚀 Projects
 
+🔹 Personal finance management system focused on tracking transactions, investments and financial goals. - IN PROGRESS
 🔹 Landing Page with responsive design and WhatsApp integration  
 🔹 Interactive UI with JavaScript (scroll, validation, feedback)  
 🔹 Focus on clean layout, UX and visual hierarchy  
