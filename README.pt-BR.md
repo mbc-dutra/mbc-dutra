@@ -6,18 +6,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá👋🏻+meu+nome+é+Matheus;Tenho+22+anos;Sou+do+Brasil;Falo+PT+e+ENG;Seja+bem-vindo!🙋🏼‍♂️)](https://git.io/typing-svg)
 
 <p align="center">
-  <strong>💡 Acredito que um bom design aliado a código limpo cria melhores experiências para o usuário.</strong>
+  <strong> ☕ Acredito que bons softwares combinam código limpo, arquitetura sólida e uma ótima experiência para o usuário.</strong>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor Frontend em formação, com uma forte base em design e comunicação.
+Sou Assistente de Design em transição para a área de desenvolvimento de software, com o objetivo de me tornar um Desenvolvedor Back-End Java.
 
-Atualmente trabalho com comunicação visual, criando layouts e materiais digitais utilizando ferramentas como Adobe Creative Cloud. Essa experiência me permite desenvolver interfaces que não são apenas funcionais, mas também claras, organizadas e visualmente agradáveis.
+Atualmente, trabalho com comunicação visual, criando layouts e materiais digitais utilizando ferramentas como o Adobe Creative Cloud. Essa experiência fortaleceu minha atenção aos detalhes, resolução de problemas e pensamento visual.
 
-Estou focado em evoluir minhas habilidades em HTML, CSS e JavaScript por meio de projetos reais, com o objetivo de me tornar um desenvolvedor frontend profissional e conquistar oportunidades internacionais.
+Atualmente, estou focado em Java, programação orientada a objetos, Spring Boot, bancos de dados e desenvolvimento back-end, enquanto desenvolvo projetos práticos para aprimorar meus conhecimentos.
 
 ---
 
@@ -46,7 +46,7 @@ Estou focado em evoluir minhas habilidades em HTML, CSS e JavaScript por meio de
 ---
 
 ## 🚀 Projetos
-
+🔹 Sistema de gerenciamento financeiro pessoal, com foco no controle de transações, investimentos e objetivos financeiros. — EM DESENVOLVIMENTO
 🔹 Landing Page com design responsivo e integração com WhatsApp  
 🔹 Interface interativa com JavaScript (scroll, validação e feedback)  
 🔹 Foco em layout limpo, experiência do usuário (UX) e hierarquia visual  
